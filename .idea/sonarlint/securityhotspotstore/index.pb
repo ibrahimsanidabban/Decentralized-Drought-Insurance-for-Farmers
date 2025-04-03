@@ -9,3 +9,7 @@ L
 contracts/soil-moisture.clar,5/b/5b2d71d6a504d6ff554aea2195c0778526a6bad3
 K
 tests/soil-moisture.test.ts,f/0/f04a4f7b700b555be6bb557768b35487ecb2d8aa
+M
+contracts/weather-oracle.clar,9/1/91996854794d2cec790d71498b2a388f98be7d49
+L
+tests/weather-oracle.test.ts,4/8/48ed39849482aa0c44e2c7a0e8fffba5f92614e5
